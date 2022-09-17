@@ -1,0 +1,2 @@
+# reusecomponentusingsimplewayandmapmethodandpassdatausingpropsparenttochildcomponent
+Created with CodeSandbox
